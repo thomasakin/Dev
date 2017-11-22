@@ -3,5 +3,5 @@
 # Entry-Location,Entry,Category,Profile,Description,Publisher,Image-Path,
 # Version,Launch-String,MD5-Hash,SHA-1-Hash,SHA-256-Hash
 #
-HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32.*vidc\..*Codecs.*System-wide
+HKLM\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32.*vidc\..*Codecs.*System-wide
 Task.Scheduler.*6.1.7600.16385.*\\system32\\rundll32\.exe \/d acproxy.dll,PerformAutochkOperations
